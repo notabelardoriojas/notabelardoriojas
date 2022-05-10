@@ -20,6 +20,16 @@ Here you'll find a bunch of Data Science projects that showcase my wizard skills
 - Studied the effects of audio data augmentation, sample length, type of spectogram, and use of delta features as channels embedded in the image on test and validation accuracy.
 - Made a cool little video showing off what this model can do on some of my favorite songs.
 
+**School Projects and Assignments** 🍢 📚
+- Double majored in Scientific Computing and Statistics, graduated Spring of '22 from Florida State University. Go noles!
+- 2018: Computational Thinking, Introduction to Scientific Computing
+- 2019: Discrete Algorithms, Programming for Scientific Applications, Symbolic and Numerical Computations
+- 2020: Continuous Algorithms I and II, Data Mining, Introduction to Deep Learning
+- 2021: Computational Evolutionary Biology
+- 2022: Applied Machine Learning, High Performance Computing
+-
+
+
 
 
 <!---
