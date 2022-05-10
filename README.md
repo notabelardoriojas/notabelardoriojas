@@ -27,7 +27,7 @@ Here you'll find a bunch of Data Science projects that showcase my wizard skills
 - 2020: Continuous Algorithms I and II, Data Mining, Introduction to Deep Learning
 - 2021: Computational Evolutionary Biology
 - 2022: Applied Machine Learning, High Performance Computing
--
+
 
 
 
