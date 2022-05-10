@@ -9,7 +9,7 @@ Here you'll find a bunch of Data Science projects that showcase my wizard skills
 - Fully developed backend, hosted on a Python Flask server, with a user-friendly interface so that you can try it out yourself!
 
 **Tableau Sales Insights Dashboard** 💸 📈
-- Used SQL extract, transform and load data from database of sale transactions, customer accounts, markets, and products for a fictional company online store AlitQ.
+- Used to SQL extract, transform and load data from database of sale transactions, customer accounts, markets, and products for a fictional online store AlitQ.
 - Revenue analysis: Revenue by market, Sales quantity by market, top 5 products and customer, and revenue by year.
 - Profit analysis: Profit by market, profit trend, customers table, customer type (E-commerce vs brick and mortar).
 - Fully interactable, filter by market, year, quarter, month, customer type, etc.
