@@ -26,6 +26,9 @@ Here you'll find a bunch of Data Science projects that showcase my wizard skills
 - Used ARCGIS to generate a map of Hurricane Evacuation Routes and Median Household Income by zipcode in Leon County
 - Are our current hurricane evacuation measures underserving low income communities? Decide for yourself on my ARCGIS Webapp.
 
+**Alteryx Exercise** 👨🏽‍💻🏋🏽
+- Used Alteryx to clean a dataset of Sales Opportunities
+
 **Musical Genre Classification** 🎧 🎨
 - Used Convolutional Neural Networks in Tensorflow to predict musical genres from audio files with multilabel classification
 - Created and cleaned a dataset of 9,000+ ethically sourced audio files using the Spotify, Deezer and StreamRip APIs.
