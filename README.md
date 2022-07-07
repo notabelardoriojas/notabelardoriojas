@@ -14,6 +14,18 @@ Here you'll find a bunch of Data Science projects that showcase my wizard skills
 - Profit analysis: Profit by market, profit trend, customers table, customer type (E-commerce vs brick and mortar).
 - Fully interactable, filter by market, year, quarter, month, customer type, etc.
 
+**COVID-19 OWID Dataset SQL and Tableau Analysis** 😷📈
+- Used MySQL to create views from the COVID-19 Dataset supplied by Our World In Data
+- Built an interactive dashboard in Tableau to visualize the results.
+- Fully Vaccinated % by country over time, highest infection rate, total cases by country over time, deaths by continent, global numbers.
+
+**Data Cleaning Exercise - Nashville Housing Market Dataset** 🧼🏡
+- Straightforward data cleaning exercise on data from the Nashville housing market.
+
+**ARCGIS Map** 🗺🌀
+- Used ARCGIS to generate a map of Hurricane Evacuation Routes and Median Household Income by zipcode in Leon County
+- Are our current hurricane evacuation measures underserving low income communities? Decide for yourself on my ARCGIS Webapp.
+
 **Musical Genre Classification** 🎧 🎨
 - Used Convolutional Neural Networks in Tensorflow to predict musical genres from audio files with multilabel classification
 - Created and cleaned a dataset of 9,000+ ethically sourced audio files using the Spotify, Deezer and StreamRip APIs.
