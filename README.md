@@ -2,11 +2,10 @@ What's up! You've found your way to my GitHub portfolio 😎
 
 Here you'll find a bunch of Data Science projects that showcase my wizard skills 🧙
 
-**Rapper Face Classification** 🎤 🤑
-- Using Support Vector Machines to classify rappers using images of thier faces.
-- Rappers used were Kanye West, Drake, Jay-Z, Eminem, and Nicki Minaj
-- Faces extracted from Google Images photos, using the OpenCV Face Cascade classifier
-- Fully developed backend, hosted on a Python Flask server, with a user-friendly interface so that you can try it out yourself!
+**The Big Music Project** 🎶🎼
+- Built a custom music recommender system using information from RateYourMusic.com, Spotify, and Genius. 
+- An extensive exploratory data analysis of of the dataset used, answering questions like "How does lyric sentiment change over time?", "How do different clusters of songs sound compared to each other?" and "What genres frequently pair together in a song?"
+- Generated a playlist using the recommender system to give you access to awesome music!
 
 **Tableau Sales Insights Dashboard** 💸 📈
 - Used to SQL extract, transform and load data from database of sale transactions, customer accounts, markets, and products for a fictional online store AlitQ.
