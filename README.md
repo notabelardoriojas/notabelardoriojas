@@ -1,6 +1,6 @@
 Hello! You've found your way to my GitHub portfolio
 
-Here you'll find a bunch of Data Science projects that showcase my skills
+Here you'll find a bunch of Data Science projects that showcase my skills!
 
 **Environmental Sound Classification** 🔊🎧
 - Investigating Different Spectrograms and Audio Augmentation Methods on Convolutional Learning: Medium, GitHub
