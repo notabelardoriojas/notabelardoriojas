@@ -27,7 +27,7 @@ Here you'll find a bunch of Data Science projects that showcase my skills!
 - Part 4: Comprehensive exploratory data analysis on the dataset: bar chart race of popularity of genres over time, co-occurrence matrices of genres visualized with heatmaps, lyric sentiment analysis, clustering the DataFrame using KNN to find differences in sound, PCA analysis, and more.
 - Part 5: Building a content-based recommender system to generate playlists of recommended songs from a user’s playlist.
 
-Data Visualization in R (various projects): 👨🏽‍💻📈
+**Data Visualization in R (various projects)** 👨🏽‍💻📈
 - **Projects:**
 - Age differences for male and female Olympic gymnasts who were successful or not in earning a medal, and how the age distribution changed over the years.
 - Is GPA related to student income, the father’s educational level, or the student’s perception of what an ideal diet is? Visualization and ANOVA analysis.
@@ -38,7 +38,7 @@ Data Visualization in R (various projects): 👨🏽‍💻📈
 - Popularity of college majors time series (growth vs decline) and Texas housing data pie charts
 - Linear trendlines for animal vore types (carnivore, herbivore, etc), weight vs amount of sleep
 
-Abstract Data Types/Data Structures: 💻💾
+**Abstract Data Types/Data Structures** 💻💾
 - Impossible Hangman: Full game implementation, impossible to win because the computer chooses from a word list that maximizes the number of possible words.
 - Impossible Boggle: Full game implementation with Tries and Depth First Search. Guess words in a N by N grid of letters, the computer prints out all possible words.
 - Treaps: Self balancing Binary Search Tree that maintains BST properties and heap properties with randomly assigned priorities.
