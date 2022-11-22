@@ -38,7 +38,7 @@ Here you'll find a bunch of Data Science projects that showcase my skills!
 - Popularity of college majors time series (growth vs decline) and Texas housing data pie charts
 - Linear trendlines for animal vore types (carnivore, herbivore, etc), weight vs amount of sleep
 
-**Abstract Data Types/Data Structures** 💻💾
+**Abstract Data Types/Data Structures** 💻💾 (Private Repo, see projects document for access)
 - Impossible Hangman: Full game implementation, impossible to win because the computer chooses from a word list that maximizes the number of possible words.
 - Impossible Boggle: Full game implementation with Tries and Depth First Search. Guess words in a N by N grid of letters, the computer prints out all possible words.
 - Treaps: Self balancing Binary Search Tree that maintains BST properties and heap properties with randomly assigned priorities.
