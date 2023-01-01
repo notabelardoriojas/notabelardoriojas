@@ -21,12 +21,6 @@ Here you'll find a bunch of Data Science projects that showcase my skills!
 - Used Vision Transformer suitable for training on small datasets by implementing shifted patch tokenization and locality self attention to force the attention module to pay more attention to the inter-token relations.
 - Reached 82% test accuracy with this method.
 
-**The Big Music Project: Building a Custom Music Recommender System with Data From Spotify, RateYourMusic.com, and Genius** 🎼🎶
-- Parts 1 and 2: Making a dataset of 35,000 songs from the most popular singles on RateYourMusic.com, web scraping genres and descriptions of songs, using the Spotify API to gather audio features (danceability, acousticness, tempo, etc) and the Genius API to get the lyrics.
-- Part 3: Data Cleaning using Pandas
-- Part 4: Comprehensive exploratory data analysis on the dataset: bar chart race of popularity of genres over time, co-occurrence matrices of genres visualized with heatmaps, lyric sentiment analysis, clustering the DataFrame using KNN to find differences in sound, PCA analysis, and more.
-- Part 5: Building a content-based recommender system to generate playlists of recommended songs from a user’s playlist.
-
 **Data Visualization in R (various projects)** 👨🏽‍💻📈
 - **Projects:**
 - Age differences for male and female Olympic gymnasts who were successful or not in earning a medal, and how the age distribution changed over the years.
